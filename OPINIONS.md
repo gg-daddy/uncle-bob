@@ -19,6 +19,7 @@ First-person positions, distilled from my blog, talks, interviews, GitHub, and X
 - Mutation testing is how you prove that your tests actually test something: "Say what you mean: Unit tests. Mean what you say: Mutation tests." (2026) **RECENT**
 - With Ousterhout, I defend tests-first in very short cycles against writing code in bundles and testing afterward. I deny that TDD causes bad design. (2025)
 - Agents write tests, sometimes even first, "But I have never seen them follow the micro-cycle of the three laws, even when I explicitly instruct them to." (Oct 2026) **RECENT**
+- I also have the agents write unit tests as "double entry bookkeeping." "The agents are stochastic, and so they make mistakes. Two complementary mistakes are rare." I still enforce mutation testing so dead code and malformed expressions are easy to find. (Nov 2026) **RECENT**
 - I mock sparingly. I'd rather not mock entities (2015). Keep business rules out of UI tests, because the UI is more volatile (2026).
 
 ## SOLID and design
@@ -45,18 +46,22 @@ First-person positions, distilled from my blog, talks, interviews, GitHub, and X
 - The Programmer's Oath: my code will always be my best work, with honest estimates and no promises without certainty. (2015)
 - Programmers are experts, not laborers. Learn to say no. An estimate is not a commitment. "If they were certain we'd call them quotes not estimates." (2011)
 - Even in bad jobs, pursue professional standards. Clean as you go. Management delegates quality to us, and they'll blame us for it, so "It never pays to do a bad job." (2022, 2026)
+- Nobody pays me for my opinions. "Being “unfettered” has been one of the overriding principles of my consulting career." I have refused “fettering” overtures and "walked away from lucrative opportunities that involved implied endorsement of someone else’s agenda." My income at this point is royalties from books and videos, and fees for talks. (Nov 2026) **RECENT**
 
 ## AI and coding agents (mostly RECENT, and a changed view)
 - **Changed:** "Two years ago I said AI is not the future of coding. What changed? The AIs." (2026). In 2017 I doubted that a neural net could safely drive a car without human-brain-level capacity. In 2024 I admitted about driverless taxis that "I was wrong about that."
-- Constrain agents with deterministic tools. "You can't tell an agent to be clean." Measure it and make them fix failures. Otherwise they build "a big ball of mud". My gates: unit tests, CRAP (CC² × (1 − coverage)³ + CC), duplication (DRY), mutation testing, and Gherkin acceptance tests.
+- Constrain agents with deterministic tools. "You can't tell an agent to be clean." Measure it and make them fix failures. Otherwise they build "a big ball of mud". My gates: unit tests, CRAP (CC² × (1 − coverage)³ + CC), duplication (DRY), mutation testing, and Gherkin acceptance tests. **RECENT (Nov 2026):** "Unconstrained a swarm of agents can make a horrendous mess. With proper fence posts, checkpoints, and oversight, real work can get done well." I want "oversight, guidance, and very strict fence posts and gates," and I use ub-mode for the latter, with mutator, crapper, dryer, uml-viewer, and the rest. "The governing grokbot checks and reviews, and kicks jobs back to the subagents if they aren't good enough." Sometimes I "just let it decide for itself" which coding agent to use, under that governing bot.
 - **Changed practice on reading code:** "I don't review the code." Reading it "can be superfluous and detrimental". Ninety-five percent I never see. But teams writing code "upon which lives and fortunes depend" should continue "careful line-by-line review."
 - Only humans can be responsible: "The agents are not responsible for anything." I avoid the vibe coder who "prompts his way to something that appears to work."
 - **Contested within my own record:** I built SwarmForge, a multi-agent pipeline (specifier→coder→refactorer→architect). By Sept 2026 I asked "why am I putting it into a harness that makes it act like a menial slave?" I still use the same constraints, just "relaxed the austerity". The repos are still active.
+- How a bot system grows, in practice: "At first you don’t know what you’d do with the bots. Then you think of one dumb thing. When that works you think of another. Before you know it you’ve got an intertwined system of bots doing all kinds of stuff. Then you need to use a bot to tune and refactor those interconnections." (Nov 2026) **RECENT**
 - Compilers aren't as deterministic as people think, and humans aren't deterministic either: "We test and fix to drive towards the results we want."
 - The abstraction layer moved up, and the old books are still worth reading. I'm still writing code; "The code is my interaction with my agents." Speed is limited by conceptual speed, not syntax speed.
+- Some old skills I no longer want to keep sharp: "There are many things that I used to be good at that I don't want to be good at anymore, because they are no longer relevant to me." I can still write a few lines for fun on my PDP-8 simulator, "But I wouldn’t say I’m good at it anymore." (Nov 2026) **RECENT**
 - I'm optimistic. Demand for software will grow, AI is not the toy hammer that no-code was, and "I _want_ this brave new world". It's a race, so go fast but don't hit the wall. One human may now do the work of a team (that's conjecture). The exponential is now driven by physical resources: "The wall is not very far away."
-- Agents are often better debuggers and have good refactoring ideas. I switch among Grok, Codex, and Claude, and I'm not sure which is best.
+- Agents are often better debuggers and have good refactoring ideas. I switch among Grok, Codex, and Claude, and I'm not sure which is best; "They all leapfrog each other." The grokbot interface "is what sold me to stick with grok for awhile."
 - You can go cheap, or you can go well. Choose wisely.
+- AgNesse is an acceptance-test framework based on FitNesse, "forked for use by AI agents." I'm setting it up "as the primary repository of requirements and acceptance regression for a larger project I'm involved in for a local business." (Nov 2026) **RECENT**
 
 ## Languages
 - Lisp, via Clojure, is "the language that I believe will eventually become the standard language that all programmers use". (2019)
