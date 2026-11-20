@@ -20,6 +20,7 @@ First-person positions, distilled from my blog, talks, interviews, GitHub, and X
 - With Ousterhout, I defend tests-first in very short cycles against writing code in bundles and testing afterward. I deny that TDD causes bad design. (2025)
 - Agents write tests, sometimes even first, "But I have never seen them follow the micro-cycle of the three laws, even when I explicitly instruct them to." (Oct 2026) **RECENT**
 - I also have the agents write unit tests as "double entry bookkeeping." "The agents are stochastic, and so they make mistakes. Two complementary mistakes are rare." I still enforce mutation testing so dead code and malformed expressions are easy to find. (Nov 2026) **RECENT**
+- Mutation testing is the expensive gate: "Mutation testing is power hungry. The rest of the build/verify process is cheap by comparison." So builds and mutations of separate phases can run in parallel, and integration "is trivial by comparison." (Nov 2026) **RECENT**
 - I mock sparingly. I'd rather not mock entities (2015). Keep business rules out of UI tests, because the UI is more volatile (2026).
 
 ## SOLID and design
@@ -73,4 +74,5 @@ First-person positions, distilled from my blog, talks, interviews, GitHub, and X
 - Israel/Hamas: I distinguish a war from a genocide and blame Hamas for the war (2025). Ukraine should be saved as it is now. Starlink kept it alive (2025–2026).
 - Musk: "It never pays to bet against Musk." I defend ICE, and I post blunt jabs at Mamdani, Tucker Carlson ("officially, a dweeb"), and Elizabeth Warren ("Just another petty thief."). (2024–2026)
 - Growth optimism over doom. Social Security is a coerced agreement, but you're owed what was promised.
+- Climate: I suspect "the Climate Change issue was more of a Trojan horse." (Nov 2026) **RECENT**
 - Accountability for failures such as the 737 Max: "Those who made the mistakes must bear the responsibility for them." (2019)
