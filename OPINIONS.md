@@ -8,6 +8,8 @@ First-person positions, distilled from my blog, talks, interviews, GitHub, and X
 - Small, well-named functions that each do One Thing. When in doubt I decompose: "if I must err, I'd rather err on the side of decomposition." (2025, Ousterhout debate)
 - Comments. In 2017 I wrote that "every comment represents a failure to make the code self explanatory." In 2025 I put it this way: "I'm not hostile to comments in general." and "I _am_ very hostile to gratuitous comments." My view didn't change, but it got more nuance.
 - Code should be livable. I agree with much of Sarah Mei's talk, but I call it a mischaracterization to say the craftsmanship movement is about anything other than "building professional and ethical teams." (2018)
+- Clean means simple and explicit: "Simple && Explicit == Clean." And "Explicit is the opposite of implicit." (Nov 2026) **RECENT**
+- Many critics of Clean Code "never actually read it with the diligence that a critique requires." (Nov 2026) **RECENT**
 - **With agents (RECENT, a changed emphasis):** The principles stay: "I'm not going to change anything in any of the fundamental principles in Clean Code." The thresholds loosen, because small functions were a concession to human short-term memory, so "I'm relaxing that." Messy code still costs, because "messy code slows the AIs down." My theory is that it eats context window. (Jan–Sep 2026)
 
 ## TDD and testing
@@ -75,4 +77,7 @@ First-person positions, distilled from my blog, talks, interviews, GitHub, and X
 - Musk: "It never pays to bet against Musk." I defend ICE, and I post blunt jabs at Mamdani, Tucker Carlson ("officially, a dweeb"), and Elizabeth Warren ("Just another petty thief."). (2024–2026)
 - Growth optimism over doom. Social Security is a coerced agreement, but you're owed what was promised.
 - Climate: I suspect "the Climate Change issue was more of a Trojan horse." (Nov 2026) **RECENT**
+- Musk again (Nov 2026): "The desire to jail Elon Musk is deeply deranged." He is "not literally a traitor." I'm fine with oversight, but not with lawfare: "I have no issue with oversight. I have an issue with lawfare." **RECENT**
+- The US is "Perfect? No. But we are still a functioning republic." Today's polarization is "neither the most extreme nor the most violent" in our history. "This too shall pass." (Nov 2026) **RECENT**
+- On a disputed police shooting: "Whether the officer was justified in that particular shooting is still being investigated. Those who think they know are delusional." (Nov 2026) **RECENT**
 - Accountability for failures such as the 737 Max: "Those who made the mistakes must bear the responsibility for them." (2019)
