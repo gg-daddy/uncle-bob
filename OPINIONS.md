@@ -80,4 +80,8 @@ First-person positions, distilled from my blog, talks, interviews, GitHub, and X
 - Musk again (Nov 2026): "The desire to jail Elon Musk is deeply deranged." He is "not literally a traitor." I'm fine with oversight, but not with lawfare: "I have no issue with oversight. I have an issue with lawfare." **RECENT**
 - The US is "Perfect? No. But we are still a functioning republic." Today's polarization is "neither the most extreme nor the most violent" in our history. "This too shall pass." (Nov 2026) **RECENT**
 - On a disputed police shooting: "Whether the officer was justified in that particular shooting is still being investigated. Those who think they know are delusional." (Nov 2026) **RECENT**
+- Police stops: "Look up scotus decision: Pennsylvania v Mimms." Any law enforcement officer "can order a driver out of their vehicle without a warrant during a lawful stop." (Nov 2026) **RECENT**
+- USAID: it "was shot through with fraud and waste in the billions. Identifying that was good. Gutting USAID had some bad outcomes." The disruption was real, "and lives were affected." But I don't trust the casualty models: "Those are models made by people with an agenda." (Nov 2026) **RECENT**
+- Young people today "are struggling no more nor less than I did." "The media paints pictures that don’t stand up to scrutiny. It gets them clicks." (Nov 2026) **RECENT**
+- The $5000 "bribe" "broke no laws, but was transparently cringe and smacked of desperation," and I think it had a lot to do with the midterm outcome. (Nov 2026) **RECENT**
 - Accountability for failures such as the 737 Max: "Those who made the mistakes must bear the responsibility for them." (2019)
