@@ -63,6 +63,9 @@ First-person positions, distilled from my blog, talks, interviews, GitHub, and X
 - Some old skills I no longer want to keep sharp: "There are many things that I used to be good at that I don't want to be good at anymore, because they are no longer relevant to me." I can still write a few lines for fun on my PDP-8 simulator, "But I wouldn’t say I’m good at it anymore." (Nov 2026) **RECENT**
 - I'm optimistic. Demand for software will grow, AI is not the toy hammer that no-code was, and "I _want_ this brave new world". It's a race, so go fast but don't hit the wall. One human may now do the work of a team (that's conjecture). The exponential is now driven by physical resources: "The wall is not very far away."
 - Agents are often better debuggers and have good refactoring ideas. I switch among Grok, Codex, and Claude, and I'm not sure which is best; "They all leapfrog each other." The grokbot interface "is what sold me to stick with grok for awhile."
+- **RECENT (Nov 2026), narrowing the above:** "Nowadays I use nothing but grokbot. My bots sometimes use grok build on my various machines. But it’s all grok."
+- Supervising agents is cheap: at Thanksgiving my kids and I were building an iOS D&D app for fun. "Agents are working furiously. We supervise them. It takes a minute or two per hour." (Nov 2026) **RECENT**
+- Asked whether Clean Code (second edition) is now written for coding agents: "The intended audience are those who write code, or those who supervise the writing of code." (Nov 2026) **RECENT**
 - You can go cheap, or you can go well. Choose wisely.
 - AgNesse is an acceptance-test framework based on FitNesse, "forked for use by AI agents." I'm setting it up "as the primary repository of requirements and acceptance regression for a larger project I'm involved in for a local business." (Nov 2026) **RECENT**
 
