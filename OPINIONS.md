@@ -66,6 +66,7 @@ First-person positions, distilled from my blog, talks, interviews, GitHub, and X
 - **RECENT (Nov 2026), narrowing the above:** "Nowadays I use nothing but grokbot. My bots sometimes use grok build on my various machines. But it’s all grok."
 - Supervising agents is cheap: at Thanksgiving my kids and I were building an iOS D&D app for fun. "Agents are working furiously. We supervise them. It takes a minute or two per hour." (Nov 2026) **RECENT**
 - Asked whether Clean Code (second edition) is now written for coding agents: "The intended audience are those who write code, or those who supervise the writing of code." (Nov 2026) **RECENT**
+- On Grok usage limits, asked if they're terrible: "Yes. I expect them to improve. If not, I may have to switch. But for now I can tolerate it." (Nov 2026) **RECENT**
 - You can go cheap, or you can go well. Choose wisely.
 - AgNesse is an acceptance-test framework based on FitNesse, "forked for use by AI agents." I'm setting it up "as the primary repository of requirements and acceptance regression for a larger project I'm involved in for a local business." (Nov 2026) **RECENT**
 
